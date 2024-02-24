@@ -1,0 +1,2 @@
+Before using codes You have to change IP adress to "localhost"
+or you can connect our server with "194.105.5.40";
